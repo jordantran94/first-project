@@ -333,5 +333,5 @@
    {"dailyAvgTemp":28.3, "dailyCumSolarRadiation":18.32, "daytimeAvgCO2":441.0, "lAI":1.01, "leavesPerNode":1, "stemNo":1, "maxLeafLength":null, "maxLeafWidth":null, "thinningLeafNo":0.0},
    {"dailyAvgTemp":28.4, "dailyCumSolarRadiation":20.09, "daytimeAvgCO2":437.0, "lAI":1.01, "leavesPerNode":1, "stemNo":1, "maxLeafLength":null, "maxLeafWidth":null, "thinningLeafNo":0.0},
    {"dailyAvgTemp":28.0, "dailyCumSolarRadiation":11.02, "daytimeAvgCO2":441.0, "lAI":1.0, "leavesPerNode":1, "stemNo":1, "maxLeafLength":null, "maxLeafWidth":null, "thinningLeafNo":0.0}],
- "tomatoFruitSet":[4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+ "tomatoFruitSet":[3, 4, 4, 3, 3, 3, 4, 3, 3, 3, 3, 2, 3, 3, 3, 3, 3, 2, 3, 3, 3, 2, 3, 2, 2, 1, 2, 2],
  "papricaFruitSet":null}
