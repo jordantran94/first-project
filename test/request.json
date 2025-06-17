@@ -1,6 +1,6 @@
-Yield Prediction Config:
+Yield Prediction After Config:
 "#<struct WAGRI::API::YieldPrediction::RequestBody::Conf lightTransmittance=0.63, crop=\"Tomato\", cultivar=\"Rinka\", userCode=\"DEMO09\", rowDistance=40.0, plantDistance=30.0, plantDensity=2.5, startLeafNo=3, startLAI=0.1, trainningStemNo=1, transplantingDate=\"2021-08-24\", startDateHarvest=\"2021-11-01\", pinchingDate=\"2022-06-03\", endDateCultivation=\"2022-07-03\", useShadingRate=\"false\", useTempInhibitionRate=\"true\", groupNo=0, measuredLai=\"true\", method=2>"
-D, [2025-06-17T13:20:05.417807 #13] DEBUG -- : [ActiveJob] [YieldPredictJob] [fce2657f-6e68-496c-92fc-67cc7fbb62f6] Yield Prediction Data:
+D, [2025-06-17T13:25:56.417876 #13] DEBUG -- : [ActiveJob] [ExecuteSimulationJob] [a422b6c4-2f7f-4743-a35d-1485d8995835] Yield Prediction  After Data:
 [
   {
     "dailyAvgTemp": 27.6,
