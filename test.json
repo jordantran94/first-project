@@ -27,7 +27,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>25.9, "dailyCumSolarRadiation"=>13.03, "daytimeAvgCO2"=>398.0, "lAI"=
 >0.19, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+36mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>27.2, "dailyCumSolarRadiation"=>12.79, "daytimeAvgCO2"=>370.0, "lAI"=
 >0.2, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -50,7 +50,7 @@ nil, "thinningLeafNo"=>0.0},
 >0.3, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>25.7, "dailyCumSolarRadiation"=>5.0, "daytimeAvgCO2"=>402.0, "lAI"=>
-0.31, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
+35m0.31, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>25.4, "dailyCumSolarRadiation"=>11.86, "daytimeAvgCO2"=>401.0, "lAI"=
 >0.33, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
@@ -66,7 +66,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>24.7, "dailyCumSolarRadiation"=>4.65, "daytimeAvgCO2"=>381.0, "lAI"=>
 0.54, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-6mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>26.0, "dailyCumSolarRadiation"=>11.9, "daytimeAvgCO2"=>411.0, "lAI"=>
 0.56, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -96,7 +96,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>24.2, "dailyCumSolarRadiation"=>4.55, "daytimeAvgCO2"=>400.0, "lAI"=>
 1.0, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>24.0, "dailyCumSolarRadiation"=>9.69, "daytimeAvgCO2"=>388.0, "lAI"=>
 1.03, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -135,7 +135,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>24.6, "dailyCumSolarRadiation"=>14.35, "daytimeAvgCO2"=>419.0, "lAI"=
 >1.1, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-6mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>25.0, "dailyCumSolarRadiation"=>9.53, "daytimeAvgCO2"=>388.0, "lAI"=>
 1.13, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -165,7 +165,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.0, "dailyCumSolarRadiation"=>9.37, "daytimeAvgCO2"=>384.0, "lAI"=>
 0.96, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+6mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>15.8, "dailyCumSolarRadiation"=>6.8, "daytimeAvgCO2"=>429.0, "lAI"=>
 1.0, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -204,7 +204,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.6, "dailyCumSolarRadiation"=>11.25, "daytimeAvgCO2"=>435.0, "lAI"=
 >1.03, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-36mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.2, "dailyCumSolarRadiation"=>12.54, "daytimeAvgCO2"=>440.0, "lAI"=
 >1.06, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -234,7 +234,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.0, "dailyCumSolarRadiation"=>10.84, "daytimeAvgCO2"=>480.0, "lAI"=
 >1.35, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+36mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.9, "dailyCumSolarRadiation"=>10.16, "daytimeAvgCO2"=>438.0, "lAI"=
 >1.38, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -273,7 +273,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.8, "dailyCumSolarRadiation"=>7.96, "daytimeAvgCO2"=>413.0, "lAI"=>
 1.3, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.6, "dailyCumSolarRadiation"=>7.97, "daytimeAvgCO2"=>410.0, "lAI"=>
 1.33, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -303,7 +303,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.0, "dailyCumSolarRadiation"=>5.19, "daytimeAvgCO2"=>446.0, "lAI"=>
 1.48, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+6mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.9, "dailyCumSolarRadiation"=>9.72, "daytimeAvgCO2"=>448.0, "lAI"=>
 1.5, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -326,7 +326,7 @@ nil, "thinningLeafNo"=>0.0},
 1.66, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.8, "dailyCumSolarRadiation"=>7.4, "daytimeAvgCO2"=>438.0, "lAI"=>
-1.69, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
+35m1.69, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.1, "dailyCumSolarRadiation"=>10.31, "daytimeAvgCO2"=>485.0, "lAI"=
 >1.72, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
@@ -342,7 +342,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.6, "dailyCumSolarRadiation"=>10.09, "daytimeAvgCO2"=>397.0, "lAI"=
 >1.61, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-36mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>15.1, "dailyCumSolarRadiation"=>2.93, "daytimeAvgCO2"=>431.0, "lAI"=>
 1.64, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -365,14 +365,14 @@ nil, "thinningLeafNo"=>0.0},
 1.43, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>15.9, "dailyCumSolarRadiation"=>8.5, "daytimeAvgCO2"=>410.0, "lAI"=>
-35m1.46, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
+1.46, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.7, "dailyCumSolarRadiation"=>11.52, "daytimeAvgCO2"=>422.0, "lAI"=
 >1.49, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.0, "dailyCumSolarRadiation"=>10.18, "daytimeAvgCO2"=>484.0, "lAI"=
 >1.52, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+36mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.0, "dailyCumSolarRadiation"=>8.28, "daytimeAvgCO2"=>448.0, "lAI"=>
 1.32, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -395,7 +395,7 @@ nil, "thinningLeafNo"=>0.0},
 >1.22, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.5, "dailyCumSolarRadiation"=>6.3, "daytimeAvgCO2"=>466.0, "lAI"=>
-1.24, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
+35m1.24, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.0, "dailyCumSolarRadiation"=>5.35, "daytimeAvgCO2"=>484.0, "lAI"=>
 1.37, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
@@ -411,7 +411,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.5, "dailyCumSolarRadiation"=>9.39, "daytimeAvgCO2"=>449.0, "lAI"=>
 1.48, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-6mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>15.7, "dailyCumSolarRadiation"=>3.53, "daytimeAvgCO2"=>473.0, "lAI"=>
 1.3, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -480,7 +480,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.7, "dailyCumSolarRadiation"=>12.2, "daytimeAvgCO2"=>466.0, "lAI"=>
 1.06, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-6mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>16.8, "dailyCumSolarRadiation"=>8.47, "daytimeAvgCO2"=>493.0, "lAI"=>
 0.93, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -510,7 +510,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.5, "dailyCumSolarRadiation"=>13.3, "daytimeAvgCO2"=>467.0, "lAI"=>
 0.95, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+6mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.4, "dailyCumSolarRadiation"=>5.18, "daytimeAvgCO2"=>474.0, "lAI"=>
 0.97, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -549,7 +549,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>17.9, "dailyCumSolarRadiation"=>17.36, "daytimeAvgCO2"=>460.0, "lAI"=
 >1.22, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-36mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>18.2, "dailyCumSolarRadiation"=>17.93, "daytimeAvgCO2"=>453.0, "lAI"=
 >1.25, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -579,7 +579,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>18.5, "dailyCumSolarRadiation"=>15.78, "daytimeAvgCO2"=>417.0, "lAI"=
 >1.37, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+36mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>18.1, "dailyCumSolarRadiation"=>17.28, "daytimeAvgCO2"=>416.0, "lAI"=
 >1.4, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -618,7 +618,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>19.2, "dailyCumSolarRadiation"=>23.28, "daytimeAvgCO2"=>449.0, "lAI"=
 >1.59, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-36mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>18.6, "dailyCumSolarRadiation"=>15.08, "daytimeAvgCO2"=>460.0, "lAI"=
 >1.63, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -648,7 +648,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>18.4, "dailyCumSolarRadiation"=>19.93, "daytimeAvgCO2"=>456.0, "lAI"=
 >1.68, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+36mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>18.5, "dailyCumSolarRadiation"=>9.62, "daytimeAvgCO2"=>423.0, "lAI"=>
 1.61, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -687,7 +687,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>19.8, "dailyCumSolarRadiation"=>20.59, "daytimeAvgCO2"=>427.0, "lAI"=
 >1.93, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-36mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>20.7, "dailyCumSolarRadiation"=>16.78, "daytimeAvgCO2"=>424.0, "lAI"=
 >1.96, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -717,7 +717,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>19.3, "dailyCumSolarRadiation"=>21.58, "daytimeAvgCO2"=>429.0, "lAI"=
 >1.77, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+36mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>19.8, "dailyCumSolarRadiation"=>15.48, "daytimeAvgCO2"=>431.0, "lAI"=
 >1.8, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -756,7 +756,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>20.0, "dailyCumSolarRadiation"=>23.99, "daytimeAvgCO2"=>431.0, "lAI"=
 >1.51, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-36mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>19.8, "dailyCumSolarRadiation"=>16.39, "daytimeAvgCO2"=>420.0, "lAI"=
 >1.54, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -786,7 +786,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>19.5, "dailyCumSolarRadiation"=>13.68, "daytimeAvgCO2"=>415.0, "lAI"=
 >1.83, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+36mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>18.6, "dailyCumSolarRadiation"=>11.31, "daytimeAvgCO2"=>418.0, "lAI"=
 >1.86, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -825,7 +825,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>24.8, "dailyCumSolarRadiation"=>8.46, "daytimeAvgCO2"=>411.0, "lAI"=>
 1.47, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-6mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>22.3, "dailyCumSolarRadiation"=>24.25, "daytimeAvgCO2"=>413.0, "lAI"=
 >1.5, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -855,7 +855,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>22.1, "dailyCumSolarRadiation"=>19.64, "daytimeAvgCO2"=>405.0, "lAI"=
 >1.59, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+36mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>20.8, "dailyCumSolarRadiation"=>18.02, "daytimeAvgCO2"=>410.0, "lAI"=
 >1.48, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -894,7 +894,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>25.7, "dailyCumSolarRadiation"=>16.23, "daytimeAvgCO2"=>431.0, "lAI"=
 >1.5, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-6mnil, "thinningLeafNo"=>0.0},
+nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>25.2, "dailyCumSolarRadiation"=>8.65, "daytimeAvgCO2"=>431.0, "lAI"=>
 1.49, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -924,7 +924,7 @@ nil, "thinningLeafNo"=>0.0},
 nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>28.2, "dailyCumSolarRadiation"=>27.53, "daytimeAvgCO2"=>438.0, "lAI"=
 >1.09, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
-nil, "thinningLeafNo"=>0.0},
+36mnil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>28.8, "dailyCumSolarRadiation"=>26.59, "daytimeAvgCO2"=>449.0, "lAI"=
 >1.08, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0},
@@ -961,7 +961,6 @@ nil, "thinningLeafNo"=>0.0},
 {"dailyAvgTemp"=>28.0, "dailyCumSolarRadiation"=>11.02, "daytimeAvgCO2"=>441.0, "lAI"=
 >1.0, "leavesPerNode"=>1, "stemNo"=>1, "maxLeafLength"=>nil, "maxLeafWidth"=>
 nil, "thinningLeafNo"=>0.0}],
-"tomatoFruitSet"=>[4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4
-, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4,
-4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+"tomatoFruitSet"=>[3, 4, 4, 3, 3, 3, 4, 3, 3, 3, 3, 2, 3, 3
+, 3, 3, 3, 2, 3, 3, 3, 2, 3, 2, 2, 1, 2, 2],
 "papricaFruitSet"=>nil}
